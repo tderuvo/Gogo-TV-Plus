@@ -31,11 +31,11 @@ import shutil
 import sys
 
 # Script constants
-__scriptname__ = "Navi-X"
-__author__ = "Navi-X team"
+__scriptname__ = "Gogo-TV"
+__author__ = "Gogo-TV team"
 __url__ = "http://code.google.com/p/navi-x/"
-__credits__ = "Navi-X team"
-__version__ = "3.7"
+__credits__ = "Gogo-TV team"
+__version__ = "4.0"
 
 sys.path.append(os.path.join(os.getcwd().replace(";",""),'src'))
 
