@@ -27,7 +27,7 @@
             <posy>5</posy>
             <width>150</width>
             <height>70</height>
-            <texture>navi-x.png</texture>
+            <texture>gogo-tv.png</texture>
         </control>        
         
         <control type="image" id="105">
@@ -229,7 +229,8 @@
             <!--onleft>122</onleft-->
             <!--onRight>61</onRight-->
             <!--visible>!Control.HasFocus(123)</visible-->
-	    <scrolltime>200</scrolltime>		<itemlayout height="32">
+	    <scrolltime>200</scrolltime>
+		<itemlayout height="32">
 			<control type="image">
 				<posx>3</posx>
 				<posy>3</posy>
