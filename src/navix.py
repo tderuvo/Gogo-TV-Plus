@@ -258,8 +258,8 @@ class MainWindow(xbmcgui.WindowXML):
                 pos = self.list3.getSelectedPosition()
                 if (platform == 'xbox') and (pos == 5) or (pos == 6):
                     self.state_busy = 1
-                    #self.setInfoText("Shutting Down Navi-X...") 
-                    SetInfoText("Shutting Down Navi-X...", setlock=True) 
+                    #self.setInfoText("Shutting Down Gogo-TV...") 
+                    SetInfoText("Shutting Down Gogo-TV...", setlock=True) 
                     self.onSaveSettings()
                     self.bkgndloadertask.kill()
                     self.bkgndloadertask.join(10) #timeout after 10 seconds.
