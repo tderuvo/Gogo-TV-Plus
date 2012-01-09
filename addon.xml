@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="script.navi-x"
-       name="Navi-X"
-       version="3.7"
-       provider-name="Navi-X team">
+       name="Gogo-TV"
+       version="0.1"
+       provider-name="Gogo-TV team">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
   </requires>
