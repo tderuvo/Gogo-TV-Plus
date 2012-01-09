@@ -118,7 +118,7 @@ useLibrtmp=os.path.exists(xbmc.translatePath('special://xbmc/system/players/dvdp
 ######################################################################
 #program version: Combination of version and subversion
 Version='3' 
-SubVersion='7.2'
+SubVersion='0.0'
 
 favorite_file='favorites.plx' #the favorite list is also a playlist
 downloads_file='downlmenu.plx' #the downloads list is also a playlist
